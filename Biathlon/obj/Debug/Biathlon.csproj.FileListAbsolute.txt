@@ -1,0 +1,13 @@
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\bin\Debug\Biathlon.exe.config
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\bin\Debug\Biathlon.exe
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\bin\Debug\Biathlon.pdb
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.MenuForm.resources
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.Properties.Resources.resources
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.csproj.GenerateResource.Cache
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.exe
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.pdb
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.ControlPanel.resources
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.csprojResolveAssemblyReference.cache
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.AppForm.resources
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.Participant.resources
+D:\!!!Саша\Олимпиада\17-18_КС\Дистанционный тур\Biathlon\Biathlon\obj\Debug\Biathlon.InfoForm.resources
